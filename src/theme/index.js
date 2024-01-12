@@ -4,5 +4,6 @@ export const storeColors = {
 }
 
 export const themeColors = {
-    bg: "#877dfa"
+    bg: "#877dfa",
+    text: "#4E493D"
 }
